@@ -1,6 +1,0 @@
-计划实现主流的快速LDA采样算法，包括sparseLDA[1]，aliasLDA[2]，lightLDA[3]
-
-
-[1] Yao, Limin, David Mimno, and Andrew McCallum. "Efficient methods for topic model inference on streaming document collections." Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2009.
-[2] Li, Aaron Q., et al. "Reducing the sampling complexity of topic models." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.
-[3] Yuan, Jinhui, et al. "LightLDA: Big Topic Models on Modest Compute Clusters." arXiv preprint arXiv:1412.1576 (2014).
